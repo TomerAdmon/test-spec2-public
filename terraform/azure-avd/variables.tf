@@ -19,7 +19,7 @@ variable "client_secret" {
 }
 
 variable "resource_group_location" {
-default     = "West Europe"
+default     = "West US"
 description = "Location of the resource group."
 }
 
